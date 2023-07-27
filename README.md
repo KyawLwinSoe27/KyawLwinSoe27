@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyaw Lwin Soe</h1>
 <h3 align="center">I'm Junior Software Developer. I can do fully functional web development and mobile development.</h3>
 
-- 🔭 I’m currently working on [Movie Booking App](https://github.com/KyawLwinSoe27/movie_booking_app_flutter)
+- 🔭 I’m currently working on [Store Management App]
 
 - 🌱 I’m currently learning **Flutter, C#, React, PHP, Laravel**
 
