@@ -25,8 +25,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kyawlwinsoe27"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kyawlwinsoe27" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawlwinsoe27&show_icons=true&locale=en&layout=compact" alt="kyawlwinsoe27" /></p>
+<div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawlwinsoe27&show_icons=true&locale=en" alt="kyawlwinsoe27" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawlwinsoe27&show_icons=true&locale=en&layout=compact" alt="kyawlwinsoe27" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawlwinsoe27&" alt="kyawlwinsoe27" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawlwinsoe27&show_icons=true&locale=en" alt="kyawlwinsoe27" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawlwinsoe27&" alt="kyawlwinsoe27" />
+  
+</div>
