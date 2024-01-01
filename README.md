@@ -27,10 +27,10 @@
 
 <div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawlwinsoe27&show_icons=true&locale=en&layout=compact" alt="kyawlwinsoe27" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawlwinsoe27&show_icons=true&locale=en&layout=compact" alt="kyawlwinsoe27" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawlwinsoe27&show_icons=true&locale=en" alt="kyawlwinsoe27" width="300px" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kyawlwinsoe27&show_icons=true&locale=en" alt="kyawlwinsoe27" width="300px" height="200px"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawlwinsoe27&" alt="kyawlwinsoe27" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawlwinsoe27&" alt="kyawlwinsoe27" />
   
 </div>
